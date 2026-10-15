@@ -1,2 +1,2 @@
-# Smart-Travel-Assistant-AI
-AI-powered travel planning application that helps users explore destinations, hotels, local food, and travel routes.
+# ai_travel_planner
+A travel agent powered by Phidata 
